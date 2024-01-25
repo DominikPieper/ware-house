@@ -1,0 +1,9 @@
+{
+  "name": "ware-house-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/ware-house-e2e/src",
+  "targets": {},
+  "tags": [],
+  "implicitDependencies": ["ware-house"]
+}
